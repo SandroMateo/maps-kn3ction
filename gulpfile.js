@@ -83,7 +83,7 @@ gulp.task('cssBuild', function() {
     .pipe(browserSync.stream());
 });
 
-gulp.task('serve', function() {
+gulp.task('serve', ['build'], function() {
   browserSync.init({
     server: {
       baseDir: "./",

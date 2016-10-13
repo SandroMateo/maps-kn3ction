@@ -3,7 +3,7 @@
   "description": "",
   "main": "gulpfile.js",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/JKonTiki/map-attack",
   "ignore": [
     "**/.*",
     "node_modules",

@@ -1,7 +1,6 @@
 {
   "name": "kn3ction",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,5 +24,14 @@
   },
   "dependencies": {
     "googlemaps": "^1.11.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKonTiki/map-attack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JKonTiki/map-attack/issues"
+  },
+  "homepage": "https://github.com/JKonTiki/map-attack#readme",
+  "description": ""
 }

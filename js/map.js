@@ -77,7 +77,7 @@ MapMaker.prototype.initiateMap = function() {
             {
               featureType: 'water',
               elementType: 'geometry',
-              stylers: [{color: '#17263c'}]
+              stylers: [{color: '#dddddd'}]
             },
             {
               featureType: 'water',
